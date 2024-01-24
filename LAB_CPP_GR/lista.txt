@@ -1,0 +1,6 @@
+P Bartosz   	Sobina    	 3-3-2002	  5	
+P Dariusz   	Wiacek    	 2-2-2001	  3	
+K Grzegorz  	Rzeszut   	 1-1-2000	  1	CPP       	  0
+P Janusz    	Poziomka  	 4-4-2005	  9	
+P Marcel    	Solon     	 4-4-2003	  7	
+K Wiktor    	Mnozny    	 6-6-2006	 11	MAT_DYS   	 10
